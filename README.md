@@ -1,4 +1,4 @@
- [![MasterHead](https://cdn.backlinks.name/image.php?url=https://media.backlinks.name//contents//backlink-yazilimdilleri-2019-01-06-08-27-47.jpg&width=900&height=450)
+ [![MasterHead](https://cdn.backlinks.name/image.php?url=https://media.backlinks.name//contents//backlink-yazilimdilleri-2019-01-06-08-27-47.jpg&width=450&height=225)
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 

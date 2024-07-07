@@ -7,6 +7,8 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 
+[![](https://visitcount.itsvg.in/api?id=omergny03&icon=7&color=1)](https://visitcount.itsvg.in) 
+
 - 📫 How to reach me **omergny03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

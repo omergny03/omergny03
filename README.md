@@ -4,7 +4,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
- [![MasterHead](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 
